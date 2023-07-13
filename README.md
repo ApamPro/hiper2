@@ -8,4 +8,5 @@ Un blog increible para el curso de Git y Github de Platzi.
 *El verdadero amor por las buenas practicas
 *Trucos muy locos del profesor
 *Las personalidades múltiples del Apam***
+*Creado por apam
 Y como un amable recordatorio:**Este readme.md es un chiste**. Diseñado  para el ejemplo. Si llegas acá NO TE LO TOMES EN SERIO  y mejor ve [a ver el curso] 
